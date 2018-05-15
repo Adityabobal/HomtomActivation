@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "574073852155",
+    "firebase_url": "https://homtom-india-68ddf.firebaseio.com",
+    "project_id": "homtom-india-68ddf",
+    "storage_bucket": "homtom-india-68ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574073852155:android:32b3a0e65552cd45",
+        "android_client_info": {
+          "package_name": "com.homtomindia.homtomactivation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574073852155-0ebc0mf34nnp5dhqa8uljhnd08qi97ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhod9bXg-NLtY9QnksPG377y_Gqce2Ms4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
